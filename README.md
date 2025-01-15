@@ -1,16 +1,16 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">👋 Всех категорически приветствую</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Меня зовут Даниил, я Backend разработчик Python</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">О себе</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Пишу Backend на Python<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
